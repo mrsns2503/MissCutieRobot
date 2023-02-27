@@ -35,7 +35,7 @@
 </details>
 <details><summary><h3>Deploy on Heroku💳</h3></summary>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/saifalisew1508/MissCutieRobot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mrsns2503/MissCutieRobot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 
 </details>
